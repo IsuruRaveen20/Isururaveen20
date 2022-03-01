@@ -14,12 +14,13 @@
         <a href="mailto:isururaveen4520@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
     </p>
 
-
+<p>
     - 🌱 I’m currently learning about Machine Learning & NLP
     - 🔭 I’m currently working on PHP Laravel Framework and MERN STACK.
     - 👯 I’m looking to collaborate with other content creators 
     - 📫 How to reach me: isururaveen4520@gmail.com
     - ⚡ Fun fact: I'm a fun guy who loves to work with people happily.
-    - :musical_note: I love to hear music.  
+    - :musical_note: I love to hear music.
+  </p>  
 </div>
 
