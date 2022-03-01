@@ -27,7 +27,8 @@
     <li>:musical_note: I love to hear music.</li>
   </p>  
 <br/>
-  ## 🛠️ My Skills
+
+## 🛠️ My Skills
 
 ### 👉 Programming languages
   &emsp; 
