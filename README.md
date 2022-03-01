@@ -9,9 +9,6 @@
         </p>
     </div>
     <p align="center">
-        <p align="left"> <img src="https://komarev.com/ghpvc/?username=isururaveen&label=Profile%20views&color=0e75b6&style=flat" alt="isururaveen" /> </p>
-    </p>
-    <p align="center">
         <br>
         <a href="https://www.linkedin.com/in/isuru-raveen-7421541b8/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"     alt="LinkedIn"/></a>&nbsp;
         <a href="mailto:isururaveen4520@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
@@ -25,5 +22,4 @@
     <li>⚡ Fun fact: I'm a fun guy who loves to work with people happily.</li>
     <li>:musical_note: I love to hear music.</li>
   </p>  
-</div>
-
+<
