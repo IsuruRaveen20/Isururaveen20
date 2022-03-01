@@ -22,7 +22,7 @@
     <li>🌱 I’m currently learning about Machine Learning & NLP.</li>
     <li>🔭 I’m currently working on PHP Laravel Framework and MERN STACK.</li>
     <li>👯 I’m looking to collaborate with other content creators.</li>
-    <li>📫 How to reach me: isururaveen4520@gmail.com</li>
+    <li>📫 How to reach me: **isururraveen4520@gmail.com**/li>
     <li>⚡ Fun fact: I'm a fun guy who loves to work with people happily.</li>
     <li>:musical_note: I love to hear music.</li>
   </p>  
