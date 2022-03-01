@@ -9,7 +9,7 @@
         </p>
     </div>
     <p align="center">
-        <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
+        <p align="left"> <img src="https://komarev.com/ghpvc/?username=isururaveen&label=Profile%20views&color=0e75b6&style=flat" alt="isururaveen" /> </p>
     </p>
     <p align="center">
         <br>
