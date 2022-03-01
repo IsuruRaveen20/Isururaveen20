@@ -39,13 +39,9 @@
   &emsp;
   <a href="#"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
   &emsp;
-  <a href="#" target="_blank"> 
-    <img alt="Java" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
-  </a>
+  <a href="#"> <img img width ='32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg"></a>
   &emsp;
-   <a href="#" target="_blank">
-    <img alt="Python" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
-  </a>
+  <a href="#"><img img width ='32px' alt="Python" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"></a>
 
 ### 👉 Frontend Development
 <p>
