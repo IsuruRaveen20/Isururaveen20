@@ -5,7 +5,7 @@
 <div>
     <h1 align="center">Hello Fellow < Developers /> !, I'm Isuru Raveen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
     <div align=center>
-        <p align='center'>
+        <p align='center'><h4 align="center"><b>"✌️If opportunity doesn’t knock, build a door✌️"</b></h4>
         </p>
     </div>
     <p align="center">
