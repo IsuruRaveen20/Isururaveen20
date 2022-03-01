@@ -26,12 +26,10 @@
     <li>⚡ Fun fact: I'm a fun guy who loves to work with people happily.</li>
     <li>:musical_note: I love to hear music.</li>
   </p>  
-
+<br/>
   ## 🛠️ My Skills
 
 ### 👉 Programming languages
-
-<p align="center"> 
   &emsp; 
   <a href="#"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
     &emsp; 
@@ -48,9 +46,7 @@
    <a href="#" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
-</p>
 
-<p>
 ### 👉 Frontend Development
 <p>
   &emsp; 
