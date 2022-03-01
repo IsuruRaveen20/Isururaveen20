@@ -4,6 +4,9 @@
 </div>
 <div>
     <h1 align="center">Hello Fellow < Developers /> !, I'm Isuru Raveen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+    <p align="center">
+        <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Undergraduate at SLIIT;PHP Laravel Developer;Problem Solver;Team Player;height=50"></a>
+    </p>
     <div align=center>
         <p align='center'><h4 align="center"><b>"✌️If opportunity doesn’t knock, build a door✌️"</b></h4>
         </p>
@@ -22,4 +25,3 @@
     <li>⚡ Fun fact: I'm a fun guy who loves to work with people happily.</li>
     <li>:musical_note: I love to hear music.</li>
   </p>  
-<
