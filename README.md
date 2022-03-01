@@ -9,7 +9,9 @@
 <a href="https://www.linkedin.com/in/isuru-raveen-7421541b8/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"     alt="LinkedIn"/></a>&nbsp;
 <a href="mailto:isururaveen4520@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
-
+<div align = "center">
+  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=imanmalekian31&theme=gruvbox&margin-w=10" />
+</div
 <br>
 </div>
 
