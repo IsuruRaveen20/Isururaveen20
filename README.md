@@ -50,7 +50,7 @@
 
 ### 👉 Programming languages
   &emsp; 
-  <a href="#"> <img width ='32px' src ='./icons/icons8-typescript-96.svg'> </a>
+  <a href="#"> <img width ='96px' src ='./icons/icons8-typescript-96.svg'> </a>
   &emsp;
   <a href="#"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
   &emsp;
