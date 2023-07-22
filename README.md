@@ -25,9 +25,7 @@
 
   <li>🚀 Passionate about pushing the boundaries of technology and exploring low-level programming 🔍</li>
 
-  <li>🌱 Always learning, evolving, and embracing the art of ethical hacking 🛡️</li>
-
-  <li>🎸 Strumming the strings of both software and guitar 🎶</li>
+  <li>🌱 Always learning, evolving, and embracing the art of Software Engineering</li>
 
   <li>🌌 Exploring the infinite universe of software engineering, one commit at a time 🚀</li>
 
@@ -37,9 +35,14 @@
 
   <li>🌟 Looking for collaborate on projects 🌍</li>
 
+  <li>🛡️ Looking for Help to learn ethical hacking </li> 
+  
   <li>📫 How to reach me:<b>isururaveen4520@gmail.com</b></li>
+
   <li>⚡ Fun fact: I'm a fun guy who loves to work with people happily.</li>
+  
   <li>:musical_note: I love to hear music.</li>
+
 </p>  
 <br/>
 
