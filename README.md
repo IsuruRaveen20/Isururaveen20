@@ -83,8 +83,6 @@
   &emsp;
     <a href="#"><img width ='96px' src ='./icons/icons8-nodejs.svg'> </a>
   &emsp;
-   <a href="#"><img width ='96px' src ='./icons/icons8-nodejs.svg'> </a>
-  &emsp;
    <a href="#"><img width='96px' src="./icons/icons8-express.svg"/> </a>
   &emsp;
    <a href="#"><img width='96px' src="https://img.icons8.com/fluency/48/laravel.png"/></a>
