@@ -50,18 +50,17 @@
 
 ### 👉 Programming languages
   &emsp; 
-  <a href="#"> <img width ='96px' src ='./icons/icons8-typescript-96.svg'> </a>
+  <a href="#"> <img width ='96px' alt="JavaScript" src ='./icons/icons8-javascript.svg'> </a>
   &emsp;
-  <a href="#"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
   &emsp;
-  <a href="#"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'></a>
+  <a href="#"> <img width ='96px' alt="TypeScript" src ='./icons/icons8-typescript-96.svg'> </a>
   &emsp;
-  <a href="#"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+  <a href="#"> <img width ='96px' alt="Python" src="./icons/icons8-python.svg"></a>
   &emsp;
-  <a href="#"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+  <a href="#"> <img width ='96px' alt ="Java" src="./icons/icons8-java.svg"> </a>
   &emsp;
-  <a href="#"><img img width ='32px' alt="Python" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"></a>
-
+  <a href="#"> <img width ='96px' alt ="PHP" src="https://img.icons8.com/color/48/php.png"> </a>
+  &emsp;
 ### 👉 Frontend Development
 <p>
   &emsp; 
