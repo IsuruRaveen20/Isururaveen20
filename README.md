@@ -61,27 +61,42 @@
   &emsp;
   <a href="#"> <img width ='96px' alt ="PHP" src="https://img.icons8.com/color/96/php.png"> </a>
   &emsp;
-### 👉 Frontend Development
-<p>
+  <a href="#"> <img width='96px' alt="SQL" src="https://img.icons8.com/arcade/96/sql.png" />
+  &emsp;
+
+<!-- ### 👉 Frontend Development -->
+<!-- <p>
   &emsp; 
   <a href="#"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
   &emsp;
   <a href="#"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-</p>
+  <a href="#"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+</p> -->
 
 ## ⭐️ Libraries and Frameworks:
   &emsp;
-    <a href="#"><img width ='32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg"></a>
+    <a href="#"><img width ='96px' src="./icons/icons8-react.svg"></a>
   &emsp;
-    <a href="#"><img width ='32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg"></a>
+    <a href="#"><img width ='96px' src="./icons/icons8-material-ui.svg"></a>
   &emsp;
-    <a href="#"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
+    <a href="#"><img width ='96px' src ='./icons/icons8-bootstrap.svg'> </a>
   &emsp;
-    <a href="#"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+    <a href="#"><img width ='96px' src ='./icons/icons8-nodejs.svg'> </a>
   &emsp;
+   <a href="#"><img width ='96px' src ='./icons/icons8-nodejs.svg'> </a>
+  &emsp;
+   <a href="#"><img width='96px' src="./icons/icons8-express.svg"/> </a>
+  &emsp;
+   <a href="#"><img width='96px' src="https://img.icons8.com/fluency/48/laravel.png"/></a>
+  &emsp;
+   <a href="#"><img width='96px' src="./icons/icons8-flask.svg"/></a>
+  &emsp;
+   <a href="#"><img width='96px' src="./icons/icons8-react-native.svg"/></a>
+  &emsp;
+   <a href="#"><img width='96px' src="https://img.icons8.com/fluency/96/android-os.png"/></a>
 </p>
 
- ### 👉 IDEs
+ <!-- ### 👉 IDEs
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
@@ -90,4 +105,4 @@
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
-<br/>
+<br/> -->
