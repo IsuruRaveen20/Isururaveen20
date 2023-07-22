@@ -6,7 +6,7 @@
     <h1 align="center">Hello Fellow < Developers /> !, I'm Isuru Raveen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
     <p align="center">
         <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.comlines=Graduated+from+SLIIT;Full+Stack+Engineer;Problem+Solver;Team+Player&center=true&width=500&height=50"></a>
+        <img src="https://readme-typing-svg.herokuapp.com?lines=Graduated+from+SLIIT;Full+Stack+Engineer;Problem+Solver;Team+Player&center=true&width=500&height=50"></a>
     </p>
     <div align=center>
         <p align='center'><h4 align="center"><b>"✌️If opportunity doesn’t knock, build a door✌️"</b></h4>
@@ -19,13 +19,28 @@
     </p>
 
 <p>
-    <li>🌱 I’m currently learning about Machine Learning & NLP.</li>
-    <li>🔭 I’m currently working on PHP Laravel Framework and MERN STACK.</li>
-    <li>👯 I’m looking to collaborate with other content creators.</li>
-    <li>📫 How to reach me:<b>isururaveen4520@gmail.com</b></li>
-    <li>⚡ Fun fact: I'm a fun guy who loves to work with people happily.</li>
-    <li>:musical_note: I love to hear music.</li>
-  </p>  
+  <li>🔧 Building bridges between code and creativity 🌉</li>
+
+  <li>🌐 Collaborating with open-source projects for a better tomorrow 🤝</li>
+
+  <li>🚀 Passionate about pushing the boundaries of technology and exploring low-level programming 🔍</li>
+
+  <li>🌱 Always learning, evolving, and embracing the art of ethical hacking 🛡️</li>
+
+  <li>🎸 Strumming the strings of both software and guitar 🎶</li>
+
+  <li>🌌 Exploring the infinite universe of software engineering, one commit at a time 🚀</li>
+
+  <li>🔭 Seeking challenges to unlock new dimensions of innovation 🔑</li>
+
+  <li>📚 Continuously expanding my knowledge horizons, one line of code at a time 📝</li>
+
+  <li>🌟 Looking for collaborate on projects 🌍</li>
+
+  <li>📫 How to reach me:<b>isururaveen4520@gmail.com</b></li>
+  <li>⚡ Fun fact: I'm a fun guy who loves to work with people happily.</li>
+  <li>:musical_note: I love to hear music.</li>
+</p>  
 <br/>
 
 ## My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
