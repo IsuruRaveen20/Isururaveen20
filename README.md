@@ -59,7 +59,7 @@
   &emsp;
   <a href="#"> <img width ='96px' alt ="Java" src="./icons/icons8-java.svg"> </a>
   &emsp;
-  <a href="#"> <img width ='96px' alt ="PHP" src="https://img.icons8.com/color/48/php.png"> </a>
+  <a href="#"> <img width ='96px' alt ="PHP" src="https://img.icons8.com/color/96/php.png"> </a>
   &emsp;
 ### 👉 Frontend Development
 <p>
